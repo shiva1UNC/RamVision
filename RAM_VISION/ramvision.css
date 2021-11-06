@@ -1,0 +1,19 @@
+body{
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fnsjonline.com%2Farticle%2F2019%2F03%2Func-old-well-to-undergo-repairs%2F&psig=AOvVaw2l-qn3An5FxzWHMCQ7pyR2&ust=1636312020978000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjSyLi3hPQCFQAAAAAdAAAAABAD") ;
+    font-family: Apple Chancery, cursive;
+}
+
+h1{
+    color:rgb(4, 228, 190);
+    font-size: 60px;
+}
+
+a{
+    color:rgb(4, 228, 190);
+    font-size: 60px;
+}
+
+p{
+    color:rgb(238, 255, 5);
+    font-size: 60px;
+}
