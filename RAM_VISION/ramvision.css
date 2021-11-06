@@ -17,3 +17,7 @@ p{
     color:rgb(12, 168, 235);
     font-size: 30px;
 }
+
+li{
+    display:inline-block;
+}
