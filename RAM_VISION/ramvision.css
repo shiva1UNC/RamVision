@@ -1,5 +1,8 @@
 body{
-    background-image: url("file:///Users/edwardbaker/Desktop/018420_rameses_22_otis108.jpg") ;
+    background-image: url("RAMV.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
     font-family: Apple Chancery, cursive;
 }
 
