@@ -19,4 +19,10 @@ a{
 
 li{
     display:inline-block;
+    background-color: rgb(12, 168, 235);
+    opacity: 0.6;
+    border: 1px solid black;
+    outline-style: solid;
+    outline-color: white;
+    outline-width: medium;
 }
