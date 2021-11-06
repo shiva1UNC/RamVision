@@ -1,19 +1,19 @@
 body{
-    background-image: url("https://nsjonline.com/wp-content/uploads/2019/03/AP_604190177410-1-678x381.jpg") ;
+    background-image: url("file:///Users/edwardbaker/Desktop/018420_rameses_22_otis108.jpg") ;
     font-family: Apple Chancery, cursive;
 }
 
 h1{
-    color:rgb(4, 228, 190);
-    font-size: 60px;
+    color:rgb(12, 168, 235);
+    font-size: 30px;
 }
 
 a{
     color:rgb(4, 228, 190);
-    font-size: 60px;
+    font-size: 30px;
 }
 
 p{
     color:rgb(238, 255, 5);
-    font-size: 60px;
+    font-size: 30px;
 }
